@@ -1,0 +1,10 @@
+txt
+
+flask
+transformers
+torch
+nltk
+spacy
+sumy
+pdfplumber
+gunicorn
